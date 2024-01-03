@@ -1,4 +1,8 @@
+- 🔭 I’m currently freelancing **web Depelopment and Web automation - RPA - scraper**
 
+- 🌱 I’m currently learning **CI/CD pipeline, Docker Container, Cloud services (AWS & Google), Network Virtualization.**
+
+- ⚡ Fun fact: **I love Coding Learn**
 
 
 #### Languages
