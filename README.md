@@ -1,11 +1,5 @@
--
-- 🔭 I’m currently writing some amateur [open source projects]
-- 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here]
 
----
+
 
 #### Languages
 
